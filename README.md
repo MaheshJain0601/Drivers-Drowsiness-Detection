@@ -5,3 +5,7 @@ Prevention of Accidents, which monitor the drowsiness of a person with an IR cam
     
    We came up with a solution for the prevention of Accidents, which monitor the drowsiness of a person with an IR camera and alerts the driver if he is asleep with a beep sound and sends a message to the owner as a caution if it is regularly repeated. The other moving vehicle & human who are driving around the vehicle will also be cautioned by using LCD screen display notifying the issue. The speed of the vehicle is Controlled automatically under certain conditions (i.e., If Drowsiness is detected). Our Final Product will be capable of reducing many road accidents and gives awareness for safe driving.
 
+
+
+https://user-images.githubusercontent.com/55226441/153548868-5370a7d4-6de4-4a38-9f27-9b027f358620.mp4
+
